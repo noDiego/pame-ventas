@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "S:\\Pega\\PagoFacil\\OB\\CTRProcessor\\src\\utils\\logs\\.453f1bdd7d3c08888ce1bca8ee729c25b1d8062c-audit.json",
+    "files": [
+        {
+            "date": 1695829332672,
+            "name": "S:\\Pega\\PagoFacil\\OB\\CTRProcessor\\src\\utils\\logs\\app-2023-09-27.log",
+            "hash": "5cf950054ca94b340c550a12b1f95f7ad3e70fff1f6fff34398797c3c0f82328"
+        }
+    ],
+    "hashType": "sha256"
+}
